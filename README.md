@@ -2,17 +2,20 @@
 
 <br>
 Backend Spring Boot
-<br>
+<br><br>
 1. Conexion a base de datos MySQL
 <br>
 2. Pruebas Unitarias con Junit Y Mockito
 <br>
+3. Puerto 8090
+<br>
 <br>
 Frontend
-<br>
+<br><br>
 1. Modo Oscuro
 <br>
 2. Uso de JQuery
+<br>
 <br>
 <br>
 
